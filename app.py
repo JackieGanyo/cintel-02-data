@@ -1,7 +1,7 @@
 import plotly.express as px
 from shiny.express import input, ui
 from shinywidgets import render_plotly
-import palmerpenguins # This package providesthe Palmer Penguins dataset
+import palmerpenguins # This package provides the Palmer Penguins dataset
 
 # Palmer Penguins Dataset
 # Column names for the penguins data set include:
